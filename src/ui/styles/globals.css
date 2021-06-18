@@ -1,0 +1,22 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Poppins, sans-serif;
+  overflow: hidden;
+  
+}
+
+form, button{
+  display: block;
+  text-align: center;
+}
+
+::-webkit-scrollbar{
+  width: 0.7rem;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #805AD5;
+  border-radius: 0.5rem;
+}
