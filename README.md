@@ -1,3 +1,37 @@
+## Site de login utilizando React + Nextjs disponível em: https://login-page-rodrigorvsn.vercel.app/
+
+#####  Para a realização deste projeto feito com React, foi utilizadoa o CHACKRA UI como biblioteca para estilizar a aplicação. O intuito da aplicação é realizar uma submissão de um login para alguma marca. No projeto foi utilizado um exemplo fictício da "Kaboom" direcionada ao público telespectador de animes.  
+#####  Além disso, para dar um suporte maior à ideia da marca, foi utilizado um carrossel com imagens de personagens de animes que tem poderes explosivos.
+
+_________________________________________________________________________________________________________________________________________________________
+
+# 🛠 Technologies (Tecnologias)
+
+- React Framework (TS) + NextJS
+- Chackra UI
+- React Hook Form
+- React-Carousel
+
+_________________________________________________________________________________________________________________________________________________________
+
+# O que aprendi 😎
+
+- Criar modal e dark mode com uso de Chackra UI (biblioteca do react): https://chakra-ui.com/
+- Utilizar React Hook Form para fazer a validação de formulários e o submit: https://react-hook-form.com/
+- Carrossel de imagens utilizando React-Carousel: https://www.npmjs.com/package/react-responsive-carousel 
+
+___________________________________________________________________________________________________________________________________________________________________
+
+# Imagens
+
+________________________________________________________________________________________________________________________________________________
+
+<p align="center"><img src="public/img/gif.gif"/></p>
+
+________________________________________________________________________________________________________________________________________
+
+# Dependências
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
